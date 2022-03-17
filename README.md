@@ -3,8 +3,13 @@
 Welcome to my portfolio on Github!
 
 Here you can see my all works in my programming and development world. Okey, I have already created about 50 projects in many programming languages.
+
 For example:
+
 These repositories in HTML5/CSS3:
+
+- 🌱 I’m currently learning Android Studio and Java/Kotlin to create Android Apps and to start my new way in my Programming Life
+- 💬 Ask me about my life and my programming career from my [Instagram](www.instagram.com/eldasdev) or [Facebook](www.facebook.com/eldasdev) profiles
 
 
 <!--
