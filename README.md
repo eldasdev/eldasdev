@@ -7,7 +7,12 @@ Here you can see my all works in my programming and development world. Okey, I h
 For example:
 
 These repositories in HTML5/CSS3:
+- [Extreme-LP](https://github.com/eldasdev/Extreme-LP)
+- [explore-parallax-project](https://github.com/eldasdev/explore-parallax-project)
+- [Parallax-ScrollTrigger-Project](https://github.com/eldasdev/Parallax-ScrollTrigger-Project)
+- [new2021](https://github.com/eldasdev/new2021)
 
+# About Me 👤
 - 🌱 I’m currently learning Android Studio and Java/Kotlin to create Android Apps and to start my new way in my Programming Life
 - 💬 Ask me about my life and my programming career from my [Instagram](www.instagram.com/eldasdev) or [Facebook](www.facebook.com/eldasdev) profiles
 
